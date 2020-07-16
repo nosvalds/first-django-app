@@ -1,3 +1,7 @@
+## Progress
+- Part 6 next:
+(https://docs.djangoproject.com/en/3.0/intro/tutorial06/)
+
 ## Feature Ideas
 - We could also improve our application in other ways, adding tests along the way. For example, it’s silly that Questions can be published on the site that have no Choices. So, our views could check for this, and exclude such Questions. Our tests would create a Question without Choices and then test that it’s not published, as well as create a similar Question with Choices, and test that it is published.
 
